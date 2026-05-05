@@ -9,7 +9,7 @@ Sou um dev focado no ecossistema Apple e entusiasta em automação e sistemas de
 - **Infra:** Docker, Linux Server, SBCs
 
 ### 🚀 Projetos em Destaque
-- **Spinfall:** Um jogo 2D de puzzle que vai girar sua cabeça!     [![Baixar na App Store](https://img.shields.io/badge/Instalar-App-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/br/app/the-spinfall/id6751965268)
+- **Spinfall:** Um jogo 2D de puzzle que vai girar sua cabeça!                      [![Baixar na App Store](https://img.shields.io/badge/Instalar-App-blue?logo=apple)](https://apps.apple.com/br/app/the-spinfall/id6751965268)
 - **RPG Manager:** O único aplicativo que você precisa para jogar RPGs de mesa.     ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ---
