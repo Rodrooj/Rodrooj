@@ -16,7 +16,7 @@ Sou um dev focado no ecossistema Apple e entusiasta em automação e sistemas de
 
 ### 📊 GitHub Stats
 ![Meus Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rodrooj&show_icons=true&theme=radical)
-![Minha Stack](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrooj&theme=radical)
+![Minha Stack](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodrooj&theme=radical)
 
 <!--
 **Rodrooj/Rodrooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
